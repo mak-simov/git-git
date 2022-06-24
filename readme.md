@@ -1,3 +1,3 @@
 # Git and Github
 
-What the fu*k
+Have a nice day
